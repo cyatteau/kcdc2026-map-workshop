@@ -1,0 +1,1266 @@
+{
+  "type": "FeatureCollection",
+  "name": "Kansas City Historic Places - KCDC 2026 Workshop",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-001",
+        "name": "\"Roselawn\" (Wm. Volker Estate)",
+        "category": "Residential",
+        "description": "Built: c.1889.",
+        "address": "3717 Bell Street",
+        "built": "c.1889",
+        "architect": "",
+        "listedDate": "1/17/1985",
+        "sourceObjectId": "1697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.60551423723588,
+          39.06000139191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-002",
+        "name": "\"Woodneath\" (Eldridge Arnold Homestead)",
+        "category": "Residential",
+        "description": "Built: 1855-56. Architect: Frederick Myers; Thomas Harrison (Builders).",
+        "address": "8900 N.E. Flintlock Road",
+        "built": "1855-56",
+        "architect": "Frederick Myers; Thomas Harrison (Builders)",
+        "listedDate": "6/15/1979",
+        "sourceObjectId": "1786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.46767117930673,
+          39.2532963183895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-003",
+        "name": "Acme Cleansing Company",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1924-25. Architect: Archer & Gloyd.",
+        "address": "3200 Gillham Road",
+        "built": "1924-25",
+        "architect": "Archer & Gloyd",
+        "listedDate": "6/17/1983",
+        "sourceObjectId": "1774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57818088788886,
+          39.068480080799006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-004",
+        "name": "Albert G. Boone Store",
+        "category": "Commercial & Industrial",
+        "description": "Built: c.1848-54.",
+        "address": "500 Westport Road",
+        "built": "c.1848-54",
+        "architect": "",
+        "listedDate": "3/11/1983",
+        "sourceObjectId": "1741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5917938348633,
+          39.05305085965399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-005",
+        "name": "Alexander Majors House",
+        "category": "Residential",
+        "description": "Built: 1856.",
+        "address": "8201 State Line",
+        "built": "1856",
+        "architect": "",
+        "listedDate": "2/6/1987",
+        "sourceObjectId": "1772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.607809596751,
+          38.979637471113506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-006",
+        "name": "Alma Apartments",
+        "category": "Residential",
+        "description": "Built: 1915.",
+        "address": "4217 Locust St",
+        "built": "1915",
+        "architect": "",
+        "listedDate": "8/8/2019",
+        "sourceObjectId": "1775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58031139659934,
+          39.0502805434355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-007",
+        "name": "Benton Boulevard Baptist Church",
+        "category": "Education & Religion",
+        "description": "Built: 1904-05. Architect: Edward & Sunderland.",
+        "address": "2455 Benton Blvd.",
+        "built": "1904-05",
+        "architect": "Edward & Sunderland",
+        "listedDate": "10/13/1983",
+        "sourceObjectId": "1767"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.54848612954234,
+          39.0808061819105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-008",
+        "name": "Bryant Building",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1930-31. Architect: Graham, Probst, Anderson & White.",
+        "address": "1102 Grand Avenue",
+        "built": "1930-31",
+        "architect": "Graham, Probst, Anderson & White",
+        "listedDate": "9/27/1979",
+        "sourceObjectId": "1763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5812602294905,
+          39.100862876762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-009",
+        "name": "Chalfonte (Chicago) Apartments",
+        "category": "Residential",
+        "description": "Built: 1908-09. Architect: Matt O'Connell.",
+        "address": "1110/12 East Armour",
+        "built": "1908-09",
+        "architect": "Matt O'Connell",
+        "listedDate": "11/16/1978",
+        "sourceObjectId": "1762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5710158003191,
+          39.06350790188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-010",
+        "name": "Charles & Josephine Peters House",
+        "category": "Residential",
+        "description": "Built: 1916-17, remodel 1936. Architect: Henry F. Hoit.",
+        "address": "1228 W. 55th St",
+        "built": "1916-17, remodel 1936",
+        "architect": "Henry F. Hoit",
+        "listedDate": "5/11/2017",
+        "sourceObjectId": "1745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.60682342290022,
+          39.0290031233375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-011",
+        "name": "Dr. Generous Henderson Residence",
+        "category": "Residential",
+        "description": "Built: 1899. Architect: Rudolf Markgraf.",
+        "address": "1016 The Paseo",
+        "built": "1899",
+        "architect": "Rudolf Markgraf",
+        "listedDate": "11/21/1979",
+        "sourceObjectId": "1792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56430627918596,
+          39.101101588709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-012",
+        "name": "Dr. James Compton Residence & Guest House",
+        "category": "Residential",
+        "description": "Built: 1829.",
+        "address": "5410 N.E. Oak Ridge Road",
+        "built": "1829",
+        "architect": "",
+        "listedDate": "4/18/1980",
+        "sourceObjectId": "1712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.51376075072822,
+          39.1944360047835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-013",
+        "name": "E. Harry Kelly House",
+        "category": "Residential",
+        "description": "Built: 1901.",
+        "address": "407 BENTON BLVD",
+        "built": "1901",
+        "architect": "",
+        "listedDate": "1/06/1994",
+        "sourceObjectId": "1777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5440732335691,
+          39.1094038610065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-014",
+        "name": "Edward Lucky Scarritt Residence",
+        "category": "Residential",
+        "description": "Built: 1899. Architect: Frederick E. Hill.",
+        "address": "3500 GLADSTONE BLVD",
+        "built": "1899",
+        "architect": "Frederick E. Hill",
+        "listedDate": "7/26/1980",
+        "sourceObjectId": "1778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.54009104015458,
+          39.115589881493506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-015",
+        "name": "Fire Station No. 11",
+        "category": "Civic & Institutional",
+        "description": "Built: 1931. Architect: Robin Walker.",
+        "address": "2033 Vine St",
+        "built": "1931",
+        "architect": "Robin Walker",
+        "listedDate": "4/2/2009",
+        "sourceObjectId": "1703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56318167900665,
+          39.087320583529504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-016",
+        "name": "Folly Theater",
+        "category": "Culture & Community",
+        "description": "Built: 1900. Architect: Louis Curtiss.",
+        "address": "300 West 12th Street",
+        "built": "1900",
+        "architect": "Louis Curtiss",
+        "listedDate": "6/15/1979",
+        "sourceObjectId": "1709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58728228502893,
+          39.1003773969905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-017",
+        "name": "Former Public Library",
+        "category": "Culture & Community",
+        "description": "Built: 1895-1897, addition 1917-18. Architect: Hackney & Smith; Adriance VanBrunt (consultant).",
+        "address": "500 East 9th",
+        "built": "1895-1897, addition 1917-18",
+        "architect": "Hackney & Smith; Adriance VanBrunt (consultant)",
+        "listedDate": "12/22/1988",
+        "sourceObjectId": "1718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57686989818758,
+          39.103836334754504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-018",
+        "name": "George C. Hale Residence",
+        "category": "Residential",
+        "description": "Built: 1899. Architect: George C. Hale.",
+        "address": "3921 Warwick Boulevard",
+        "built": "1899",
+        "architect": "George C. Hale",
+        "listedDate": "2/12/2002",
+        "sourceObjectId": "1695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58340676966688,
+          39.0557813801295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-019",
+        "name": "Green Duck Tavern",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1904-19.",
+        "address": "2548 Prospect Ave",
+        "built": "1904-19",
+        "architect": "",
+        "listedDate": "9/17/2015",
+        "sourceObjectId": "1790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.55274908316758,
+          39.079081620938496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-020",
+        "name": "Harris-Kearney House",
+        "category": "Residential",
+        "description": "Built: c.1855.",
+        "address": "4000 Baltimore",
+        "built": "c.1855",
+        "architect": "",
+        "listedDate": "7/24/1980",
+        "sourceObjectId": "1787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58785922327937,
+          39.054050424488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-021",
+        "name": "Home Telephone Company/Linwood Exchange Building",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1905; 1913 Addition. Architect: Hucke & Sexton (Builder).",
+        "address": "3244 Wabash",
+        "built": "1905; 1913 Addition",
+        "architect": "Hucke & Sexton (Builder)",
+        "listedDate": "9/26/1984",
+        "sourceObjectId": "1779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.55450202033049,
+          39.0664699534005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-022",
+        "name": "Independence Boulevard Christian Church",
+        "category": "Education & Religion",
+        "description": "Built: 1905, 1910. Architect: Howe, Hoit & Cutler.",
+        "address": "606 Gladstone Blvd",
+        "built": "1905, 1910",
+        "architect": "Howe, Hoit & Cutler",
+        "listedDate": "1/29/2015",
+        "sourceObjectId": "1752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.54639619404767,
+          39.1058390661955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-023",
+        "name": "Ivanhoe Masonic Temple",
+        "category": "Culture & Community",
+        "description": "Built: 1920-22. Architect: Smith,Rea & Lovitt.",
+        "address": "2301 Park/2301 E. Linwood",
+        "built": "1920-22",
+        "architect": "Smith,Rea & Lovitt",
+        "listedDate": "8/12/1982",
+        "sourceObjectId": "1725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5560846753798,
+          39.067727402188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-024",
+        "name": "J.C. Nichols Residence",
+        "category": "Residential",
+        "description": "Built: 1908. Architect: Wilder & Wight.",
+        "address": "48 East 52nd Street",
+        "built": "1908",
+        "architect": "Wilder & Wight",
+        "listedDate": "3/27/1981",
+        "sourceObjectId": "1699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5849782230352,
+          39.032827180599995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-025",
+        "name": "John Wornall House",
+        "category": "Residential",
+        "description": "Built: 1858.",
+        "address": "146 West 61st Terrace",
+        "built": "1858",
+        "architect": "",
+        "listedDate": "6/1/1978",
+        "sourceObjectId": "1776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.59245472359673,
+          39.0169265867255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-026",
+        "name": "Judge Charles E. Moss Residence",
+        "category": "Residential",
+        "description": "Built: 1887. Architect: VanBrunt & Howe.",
+        "address": "1742 Jefferson",
+        "built": "1887",
+        "architect": "VanBrunt & Howe",
+        "listedDate": "2/5/1982",
+        "sourceObjectId": "1698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5925843972305,
+          39.092493699074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-027",
+        "name": "Kansas City Atheneum",
+        "category": "Culture & Community",
+        "description": "Built: 1914-15. Architect: Samuel Tarbet.",
+        "address": "900 East Linwood Blvd.",
+        "built": "1914-15",
+        "architect": "Samuel Tarbet",
+        "listedDate": "2/6/1987",
+        "sourceObjectId": "1756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57371975698764,
+          39.0690413165995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-028",
+        "name": "Kansas City Young Matrons' Club House",
+        "category": "Culture & Community",
+        "description": "Built: 1935-36. Architect: Edward Buehler Delk.",
+        "address": "5100 Oak Street",
+        "built": "1935-36",
+        "architect": "Edward Buehler Delk",
+        "listedDate": "11/18/1998",
+        "sourceObjectId": "1735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5829924022392,
+          39.0344117537485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-029",
+        "name": "Katz Drug Store",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1934. Architect: Clarence Kivett.",
+        "address": "3948 Main Street, 111 Westport Rd, 3949 Baltimore",
+        "built": "1934",
+        "architect": "Clarence Kivett",
+        "listedDate": "1/25/2007",
+        "sourceObjectId": "1706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58696365149538,
+          39.054621468359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-030",
+        "name": "Land Bank Building",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1923-24. Architect: Keene & Simpson.",
+        "address": "15 West 10th Street",
+        "built": "1923-24",
+        "architect": "Keene & Simpson",
+        "listedDate": "6/13/1985",
+        "sourceObjectId": "1737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58378633431636,
+          39.101968073040496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-031",
+        "name": "Lincoln High School",
+        "category": "Education & Religion",
+        "description": "Built: 1935-36. Architect: Charles Smith.",
+        "address": "2111 Woodland Avenue",
+        "built": "1935-36",
+        "architect": "Charles Smith",
+        "listedDate": "2/21/2002",
+        "sourceObjectId": "1760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56004022697644,
+          39.0871930371225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-032",
+        "name": "Loretto Academy",
+        "category": "Education & Religion",
+        "description": "Built: 1902-03. Architect: Barnett, Haynes & Barnett (St. Louis).",
+        "address": "1111 West 39th Street",
+        "built": "1902-03",
+        "architect": "Barnett, Haynes & Barnett (St. Louis)",
+        "listedDate": "5/13/1983",
+        "sourceObjectId": "1770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.60052322143622,
+          39.0564500111345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-033",
+        "name": "Louis Curtiss Studio",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1908-09. Architect: Louis Curtiss.",
+        "address": "1118 McGee",
+        "built": "1908-09",
+        "architect": "Louis Curtiss",
+        "listedDate": "12/29/1988",
+        "sourceObjectId": "1731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58006008556794,
+          39.100366308356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-034",
+        "name": "Masonic Temple",
+        "category": "Culture & Community",
+        "description": "Built: 1909-11. Architect: J. C. Sunderland.",
+        "address": "903 Harrison",
+        "built": "1909-11",
+        "architect": "J. C. Sunderland",
+        "listedDate": "2/2/1979",
+        "sourceObjectId": "1724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57065485652052,
+          39.102959097601996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-035",
+        "name": "Mutual Musicians Foundation",
+        "category": "Culture & Community",
+        "description": "Built: 1904. Architect: Rudolf Markgraf.",
+        "address": "1823 HIGHLAND AVE",
+        "built": "1904",
+        "architect": "Rudolf Markgraf",
+        "listedDate": "7/24/1980",
+        "sourceObjectId": "1789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56186087589208,
+          39.0902554585785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-036",
+        "name": "Newbern Apartments",
+        "category": "Residential",
+        "description": "Built: 1921-25. Architect: Phillip Drotts; Ernest Brostrom.",
+        "address": "525 East Armour Blvd.",
+        "built": "1921-25",
+        "architect": "Phillip Drotts; Ernest Brostrom",
+        "listedDate": "11/16/1978",
+        "sourceObjectId": "1727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57905790547241,
+          39.0631741818805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-037",
+        "name": "Phillips House Hotel",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1929-31. Architect: Boillot & Lauck.",
+        "address": "106 West 12th Street",
+        "built": "1929-31",
+        "architect": "Boillot & Lauck",
+        "listedDate": "7/6/1978",
+        "sourceObjectId": "1705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58467219978829,
+          39.100182544256995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-038",
+        "name": "Professional Building",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1929. Architect: Charles Smith & George McIntyre.",
+        "address": "1101-07 Grand Blvd.",
+        "built": "1929",
+        "architect": "Charles Smith & George McIntyre",
+        "listedDate": "11/24/2004",
+        "sourceObjectId": "1749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58049923662382,
+          39.1008400560645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-039",
+        "name": "Progress Club",
+        "category": "Culture & Community",
+        "description": "Built: 1893/with alterations. Architect: Gunn & Curtiss.",
+        "address": "1051 Washington",
+        "built": "1893/with alterations",
+        "architect": "Gunn & Curtiss",
+        "listedDate": "5/3/1984",
+        "sourceObjectId": "1691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5896425281095,
+          39.1016786360495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-040",
+        "name": "Redemptorist Church Complex",
+        "category": "Education & Religion",
+        "description": "Built: 1907-12; 1923; 1928; 1950. Architect: Wilder & Wight-Church; Edgar P. Madories-School; Maurice Carroll-Rectory; Shaughnessey & Bo.",
+        "address": "3333 Broadway & 207, 211 West Linwood Blvd.",
+        "built": "1907-12; 1923; 1928; 1950",
+        "architect": "Wilder & Wight-Church; Edgar P. Madories-School; Maurice Carroll-Rectory; Shaughnessey & Bo",
+        "listedDate": "2/6/1987",
+        "sourceObjectId": "1739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58897825288915,
+          39.0668406626175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-041",
+        "name": "Saint Mark's Lutheran Church",
+        "category": "Education & Religion",
+        "description": "Built: 1914-1916. Architect: Owen & Payson, Shepard & Wiser.",
+        "address": "3800 Troost",
+        "built": "1914-1916",
+        "architect": "Owen & Payson, Shepard & Wiser",
+        "listedDate": "1/31/2002",
+        "sourceObjectId": "1761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5726359009879,
+          39.057573515912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-042",
+        "name": "Savoy Hotel & Grill",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1888-1906. Architect: Simeon E. Chamberlain; Additions: Van Brunt & Howe; Howe, Hoit & Cutler.",
+        "address": "219 W. 9th St.",
+        "built": "1888-1906",
+        "architect": "Simeon E. Chamberlain; Additions: Van Brunt & Howe; Howe, Hoit & Cutler",
+        "listedDate": "12/22/1988",
+        "sourceObjectId": "1719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58645781527098,
+          39.103523609351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-043",
+        "name": "Scarritt Building & Scarritt Arcade",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1906-07. Architect: Root & Siemens.",
+        "address": "818 Grand Avenue; 819 Walnut Avenue",
+        "built": "1906-07",
+        "architect": "Root & Siemens",
+        "listedDate": "3/12/1987",
+        "sourceObjectId": "1747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58115155366573,
+          39.103660092347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-044",
+        "name": "Seth Ward Residence",
+        "category": "Residential",
+        "description": "Built: c.1856-57; c.1871-72. Architect: Asa B. Cross (remodeling/addition).",
+        "address": "1032 West 55th Street",
+        "built": "c.1856-57; c.1871-72",
+        "architect": "Asa B. Cross (remodeling/addition)",
+        "listedDate": "1/10/1985",
+        "sourceObjectId": "1711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.60148652546151,
+          39.0285757721635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-045",
+        "name": "Sophian Plaza",
+        "category": "Residential",
+        "description": "Built: 1922-23. Architect: Shepard & Wiser.",
+        "address": "4618 Warwick Blvd.",
+        "built": "1922-23",
+        "architect": "Shepard & Wiser",
+        "listedDate": "5/8/1986",
+        "sourceObjectId": "1730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58335798412125,
+          39.0426806485875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-046",
+        "name": "St. James Baptist Church",
+        "category": "Education & Religion",
+        "description": "Built: 1938.",
+        "address": "508 W 43rd St",
+        "built": "1938",
+        "architect": "",
+        "listedDate": "11/07/2013",
+        "sourceObjectId": "1734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.59237345387575,
+          39.049672672787494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-047",
+        "name": "St. Mary's Episcopal Church",
+        "category": "Education & Religion",
+        "description": "Built: 1888. Architect: William Halsey Wood (New York).",
+        "address": "1307 Holmes Street",
+        "built": "1888",
+        "architect": "William Halsey Wood (New York)",
+        "listedDate": "4/18/1980",
+        "sourceObjectId": "1765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5747132201821,
+          39.097990042829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-048",
+        "name": "St. Regis Hotel",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1914. Architect: Owen & Payson.",
+        "address": "1400 E. Linwood Blvd.",
+        "built": "1914",
+        "architect": "Owen & Payson",
+        "listedDate": "3/16/1984",
+        "sourceObjectId": "1757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56635851649438,
+          39.068982419175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-049",
+        "name": "St. Stephen's Church & Rectory",
+        "category": "Education & Religion",
+        "description": "Built: 1916-22 Church; 1909 Rectory. Architect: William E. Brown.",
+        "address": "1029 Bennington Avenue",
+        "built": "1916-22 Church; 1909 Rectory",
+        "architect": "William E. Brown",
+        "listedDate": "2/14/1985",
+        "sourceObjectId": "1708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.50500420744596,
+          39.098867612951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-050",
+        "name": "The Gotham Apartments",
+        "category": "Residential",
+        "description": "Built: 1919. Architect: Greenbaum and Hardy.",
+        "address": "2718-20 East Linwood Blvd.",
+        "built": "1919",
+        "architect": "Greenbaum and Hardy",
+        "listedDate": "3/28/2002",
+        "sourceObjectId": "1748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.55091466383897,
+          39.068276394269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-051",
+        "name": "The Minute Circle Friendly House",
+        "category": "Civic & Institutional",
+        "description": "Built: 1925 (add.1929). Architect: Albert B. Fuller (addition).",
+        "address": "3026 East 21st Street",
+        "built": "1925 (add.1929)",
+        "architect": "Albert B. Fuller (addition)",
+        "listedDate": "6/13/1985",
+        "sourceObjectId": "1788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.54608941570396,
+          39.0867323529645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-052",
+        "name": "Thomas J. Pendergast Headquarters",
+        "category": "Civic & Institutional",
+        "description": "Built: 1926. Architect: Raymond H. Sanneman.",
+        "address": "1908 Main Street",
+        "built": "1926",
+        "architect": "Raymond H. Sanneman",
+        "listedDate": "9/5/1991",
+        "sourceObjectId": "1721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58406189824703,
+          39.0899522124825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-053",
+        "name": "Union Station",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1906-14. Architect: Jarvis Hunt.",
+        "address": "30 West Pershing Road",
+        "built": "1906-14",
+        "architect": "Jarvis Hunt",
+        "listedDate": "2/21/1986",
+        "sourceObjectId": "1769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58515681412348,
+          39.084913581131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-054",
+        "name": "Unity Headquarters Building",
+        "category": "Culture & Community",
+        "description": "Built: 1906-07; 1915 addition. Architect: Elmer Boillot (addition).",
+        "address": "913 TRACY AVE",
+        "built": "1906-07; 1915 addition",
+        "architect": "Elmer Boillot (addition)",
+        "listedDate": "6/28/1984",
+        "sourceObjectId": "1729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56666476282508,
+          39.1026288693745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-055",
+        "name": "Vine Street Workhouse",
+        "category": "Civic & Institutional",
+        "description": "Built: 1897. Architect: A. Wallace Love.",
+        "address": "2001 Vine St",
+        "built": "1897",
+        "architect": "A. Wallace Love",
+        "listedDate": "11/29/2007",
+        "sourceObjectId": "1771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5628897442499,
+          39.087810775673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-056",
+        "name": "Webster School",
+        "category": "Education & Religion",
+        "description": "Built: 1885;(1887 add.). Architect: Manuel Diaz (1885) William F. Hackney (1887).",
+        "address": "1644 Wyandotte",
+        "built": "1885;(1887 add.)",
+        "architect": "Manuel Diaz (1885) William F. Hackney (1887)",
+        "listedDate": "2/26/1982",
+        "sourceObjectId": "1693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58630020486842,
+          39.093084402011996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-057",
+        "name": "Western Baptist Bible College",
+        "category": "Education & Religion",
+        "description": "Built: 1899,1903-04. Architect: Van Brunt & Howe; George Mathews, Horace LaPierre (supervising architect).",
+        "address": "2119, 2125 Tracy",
+        "built": "1899,1903-04",
+        "architect": "Van Brunt & Howe; George Mathews, Horace LaPierre (supervising architect)",
+        "listedDate": "12/22/1988",
+        "sourceObjectId": "1758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5668164677235,
+          39.086579744618504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-058",
+        "name": "Westminster Congregational Church",
+        "category": "Education & Religion",
+        "description": "Built: 1904; 1912. Architect: Diboll & Owen; Braecklin & Martling.",
+        "address": "3600 WALNUT ST",
+        "built": "1904; 1912",
+        "architect": "Diboll & Owen; Braecklin & Martling",
+        "listedDate": "7/6/1979",
+        "sourceObjectId": "1723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58495984151983,
+          39.0616548776825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-059",
+        "name": "Wheatley Provident Hospital",
+        "category": "Civic & Institutional",
+        "description": "Built: 1902, add. 1926.",
+        "address": "1826 Forest Ave",
+        "built": "1902, add. 1926",
+        "architect": "",
+        "listedDate": "1/3/2008",
+        "sourceObjectId": "1714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56939539782778,
+          39.090605027206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kc-060",
+        "name": "Wright Residence",
+        "category": "Residential",
+        "description": "Built: 1908. Architect: Wilder & Wight.",
+        "address": "3800 Campbell",
+        "built": "1908",
+        "architect": "Wilder & Wight",
+        "listedDate": "7/6/1978",
+        "sourceObjectId": "1700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57464934958405,
+          39.057904981321
+        ]
+      }
+    }
+  ]
+}
