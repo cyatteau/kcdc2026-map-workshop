@@ -15,7 +15,30 @@
   </head>
 
   <body>
-    <div id="map"></div>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <header class="sidebar-header">
+          <p class="eyebrow">KCDC 2026</p>
+
+          <h1 id="app-title">City Explorer</h1>
+
+          <p class="intro">
+            Explore historic places and see how a map and ordinary web UI can
+            share application state.
+          </p>
+        </header>
+
+        <p id="status" class="status" aria-live="polite"></p>
+
+        <ul
+          id="place-list"
+          class="place-list"
+          aria-label="Historic places"
+        ></ul>
+      </aside>
+
+      <main id="map" class="map" aria-label="Interactive map"></main>
+    </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="./main.js"></script>
