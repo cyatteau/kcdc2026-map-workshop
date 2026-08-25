@@ -121,6 +121,21 @@ h1 {
   outline-offset: 2px;
 }
 
+.filter {
+  display: grid;
+  gap: 0.35rem;
+  margin: 1rem 0;
+}
+.filter__label {
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+.filter__select {
+  width: 100%;
+  padding: 0.6rem;
+  font: inherit;
+}
+
 @media (max-width: 760px) {
   .app-shell {
     height: auto;

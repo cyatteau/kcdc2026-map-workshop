@@ -41,6 +41,7 @@ const state = {
 const appTitle = document.querySelector("#app-title");
 const placeList = document.querySelector("#place-list");
 const statusElement = document.querySelector("#status");
+const categoryFilter = document.querySelector("#category-filter");
 
 appTitle.textContent = `${appConfig.name} Explorer`;
 
@@ -176,6 +177,15 @@ function renderList(features) {
   placeList.append(fragment);
 }
 
+function visibleFeatures() {
+  if (state.category === "all") {
+    return state.places;
+  }
+  return state.places.filter(
+    (feature) => feature.properties.category === state.category,
+  );
+}
+
 placeList.addEventListener("click", (event) => {
   const card = event.target.closest("[data-place-id]");
   if (!card) {
@@ -183,6 +193,15 @@ placeList.addEventListener("click", (event) => {
   }
   selectPlace(card.dataset.placeId);
 });
+
+function render() {
+  const features = visibleFeatures();
+  layerById.clear();
+  placesLayer.clearLayers();
+  placesLayer.addData({ type: "FeatureCollection", features });
+  renderList(features);
+  setStatus(`${features.length} historic places`);
+}
 
 async function loadPlaces() {
   setStatus(`Loading ${appConfig.name} places...`);
@@ -198,12 +217,7 @@ async function loadPlaces() {
 
     state.places = geojson.features;
 
-    console.log(`Loaded ${state.places.length} places for ${appConfig.name}`);
-
-    renderList(state.places);
-
-    placesLayer.clearLayers();
-    placesLayer.addData(geojson);
+    render();
 
     if (placesLayer.getBounds().isValid()) {
       map.fitBounds(placesLayer.getBounds(), {
@@ -218,5 +232,11 @@ async function loadPlaces() {
     setStatus(`We couldn't load the ${appConfig.name} data.`);
   }
 }
+
+categoryFilter.addEventListener("change", (event) => {
+  state.category = event.target.value;
+  state.selectedId = null;
+  render();
+});
 
 loadPlaces();

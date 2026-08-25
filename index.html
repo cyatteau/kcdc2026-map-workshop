@@ -29,7 +29,19 @@
         </header>
 
         <p id="status" class="status" aria-live="polite"></p>
-
+        <div class="filter">
+          <label for="category-filter" class="filter__label"> Category </label>
+          <select id="category-filter" class="filter__select">
+            <option value="all">All categories</option>
+            <option value="Culture & Community">Culture & Community</option>
+            <option value="Education & Religion">Education & Religion</option>
+            <option value="Civic & Institutional">Civic & Institutional</option>
+            <option value="Commercial & Industrial">
+              Commercial & Industrial
+            </option>
+            <option value="Residential">Residential</option>
+          </select>
+        </div>
         <ul
           id="place-list"
           class="place-list"
