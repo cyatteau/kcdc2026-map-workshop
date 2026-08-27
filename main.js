@@ -200,6 +200,11 @@ function render() {
   placesLayer.clearLayers();
   placesLayer.addData({ type: "FeatureCollection", features });
   renderList(features);
+  if (features.length === 0) {
+    setStatus("No places match this filter.");
+  } else {
+    setStatus(`${features.length} historic places`);
+  }
   setStatus(`${features.length} historic places`);
 }
 
