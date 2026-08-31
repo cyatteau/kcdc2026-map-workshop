@@ -18,7 +18,7 @@ function addBasemap() {
   const apiKey = window.APP_CONFIG?.arcgisApiKey;
 
   if (apiKey) {
-    L.esri.Vector.vectorBasemapLayer("arcgis/streets", {
+    L.esri.Vector.vectorBasemapLayer("arcgis/light-gray", {
       apikey: apiKey,
     }).addTo(map);
 

@@ -1,0 +1,1266 @@
+{
+  "type": "FeatureCollection",
+  "name": "Chicago Historic Places - KCDC 2026 Workshop",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-001",
+        "name": "(Former) Engine Company 35, Truck 28",
+        "category": "Civic & Institutional",
+        "description": "Built: 1894,1904. Architect: Board of Public Works, add: W. C. Zimmerman.",
+        "address": "1625 N Damen Av",
+        "built": "1894,1904",
+        "architect": "Board of Public Works, add: W. C. Zimmerman",
+        "designatedDate": "2003-10-01",
+        "sourceId": "L-227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67714160708564,
+          41.91123784312788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-002",
+        "name": "(Former) Engine Company 86",
+        "category": "Civic & Institutional",
+        "description": "Built: 1899. Architect: Board of Public Works.",
+        "address": "2414 W Cuyler Av",
+        "built": "1899",
+        "architect": "Board of Public Works",
+        "designatedDate": "2003-10-01",
+        "sourceId": "L-228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68922823677255,
+          41.955191510067436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-003",
+        "name": "(Former) Hyde Park-Kenwood Nat'l Bank Bldg",
+        "category": "Culture & Community",
+        "description": "Built: 1928. Architect: Karl M. Vitzthum & Co..",
+        "address": "1515-1535 E 53rd St",
+        "built": "1928",
+        "architect": "Karl M. Vitzthum & Co.",
+        "designatedDate": "2008-10-08",
+        "sourceId": "L-265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5881880228758,
+          41.79937372937039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-004",
+        "name": "(Former) Lyman Trumbull Public School Building",
+        "category": "Education & Religion",
+        "description": "Built: 1909-1913. Architect: Dwight H. Perkins.",
+        "address": "5200-24 N. Ashland Avenue/1600-1612 W. Foster",
+        "built": "1909-1913",
+        "architect": "Dwight H. Perkins",
+        "designatedDate": "2019-09-18",
+        "sourceId": "L-355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67015893081182,
+          41.976618935842396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-005",
+        "name": "(Former) Marquette Park State Bank Building",
+        "category": "Culture & Community",
+        "description": "Built: 1924. Architect: Karl M. Vitzthum & Co..",
+        "address": "6314 S Western Av",
+        "built": "1924",
+        "architect": "Karl M. Vitzthum & Co.",
+        "designatedDate": "2008-10-08",
+        "sourceId": "L-272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6840191844532,
+          41.77865450475078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-006",
+        "name": "(Former) Mid-City Trust & Savings Bank Buildings",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1911-12. Architect: Horatio R. Wilson (Original Bldg).",
+        "address": "2 S. Halsted Street",
+        "built": "1911-12",
+        "architect": "Horatio R. Wilson (Original Bldg)",
+        "designatedDate": "2012-04-24",
+        "sourceId": "L-314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64769416357353,
+          41.881456956876406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-007",
+        "name": "(Former) Pioneer Trust & Savings Bank Building",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1924. Architect: Karl M. Vitzthum.",
+        "address": "4000 W. North Ave.",
+        "built": "1924",
+        "architect": "Karl M. Vitzthum",
+        "designatedDate": "2012-06-06",
+        "sourceId": "L-315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72661733529222,
+          41.9101921096731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-008",
+        "name": "(Former) Schlitz BreweryTied-House@3456SWestern",
+        "category": "Residential",
+        "description": "Built: 1899. Architect: Kley & Lang.",
+        "address": "3456 S. Western Ave.",
+        "built": "1899",
+        "architect": "Kley & Lang",
+        "designatedDate": "2011-07-06",
+        "sourceId": "L-304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6854443325939,
+          41.83039918503044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-009",
+        "name": "(Former) St. Adalbert Church Building",
+        "category": "Education & Religion",
+        "description": "Built: 1914. Architect: Henry J. Schlacks.",
+        "address": "1638 W 17th St",
+        "built": "1914",
+        "architect": "Henry J. Schlacks",
+        "designatedDate": "",
+        "sourceId": "L-393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66787981617816,
+          41.85897196680493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-010",
+        "name": "227 East Walton Place Apartment Building",
+        "category": "Residential",
+        "description": "Built: 1956. Architect: Harry Weese.",
+        "address": "227 East Walton Place",
+        "built": "1956",
+        "architect": "Harry Weese",
+        "designatedDate": "2012-05-09",
+        "sourceId": "L-311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62077825117322,
+          41.8998141816441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-011",
+        "name": "42nd Presinct / Town Hall Police Station",
+        "category": "Civic & Institutional",
+        "description": "Built: 1907.",
+        "address": "3600 N. Halsted St",
+        "built": "1907",
+        "architect": "Unknown",
+        "designatedDate": "2013-09-11",
+        "sourceId": "L-322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64991010282243,
+          41.947623701829684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-012",
+        "name": "6901 Oglesby Cooperative Apartment Building",
+        "category": "Residential",
+        "description": "Built: 1928-29. Architect: Paul Frederick Olsen.",
+        "address": "6901 S Oglesby Av",
+        "built": "1928-29",
+        "architect": "Paul Frederick Olsen",
+        "designatedDate": "2008-09-10",
+        "sourceId": "L-264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56778671414247,
+          41.76966083985757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-013",
+        "name": "August Dewes House",
+        "category": "Residential",
+        "description": "Built: 1894-96. Architect: Adolph Cudell & Arthur Hercz.",
+        "address": "509 W Wrightwood Av",
+        "built": "1894-96",
+        "architect": "Adolph Cudell & Arthur Hercz",
+        "designatedDate": "2005-03-09",
+        "sourceId": "L- 82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64176886858604,
+          41.93027810721327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-014",
+        "name": "Belle Shore Apartment Hotel",
+        "category": "Residential",
+        "description": "Built: 1928-29. Architect: Nathaniel Koenigsberg & Leon Weisfeld.",
+        "address": "1062 W Bryn Mawr Av",
+        "built": "1928-29",
+        "architect": "Nathaniel Koenigsberg & Leon Weisfeld",
+        "designatedDate": "2002-11-06",
+        "sourceId": "L- 55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65762368001077,
+          41.98382600727979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-015",
+        "name": "Blackstone Library",
+        "category": "Civic & Institutional",
+        "description": "Built: 1904. Architect: Solon Spencer Beman.",
+        "address": "4904 S. Lake Park Ave",
+        "built": "1904",
+        "architect": "Solon Spencer Beman",
+        "designatedDate": "2011-01-13",
+        "sourceId": "L-293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5903150232995,
+          41.805861668144416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-016",
+        "name": "Bryn Mawr Apartment Hotel",
+        "category": "Residential",
+        "description": "Built: 1927-28. Architect: Alexander L. Levy & William J. Klein.",
+        "address": "5550 N Kenmore Av",
+        "built": "1927-28",
+        "architect": "Alexander L. Levy & William J. Klein",
+        "designatedDate": "2002-11-06",
+        "sourceId": "L- 57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65700295254763,
+          41.98331143772281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-017",
+        "name": "Canaan Baptist Church of Christ Building",
+        "category": "Education & Religion",
+        "description": "Built: 1904-05. Architect: Solon S. Beman.",
+        "address": "6657-59 S Harvard Av",
+        "built": "1904-05",
+        "architect": "Solon S. Beman",
+        "designatedDate": "2006-07-26",
+        "sourceId": "L- 61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63278110688022,
+          41.7729625698411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-018",
+        "name": "Chicago & Western Indiana Railroad Bridge",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1967-68. Architect: James Peterson.",
+        "address": "Calumet River, 126th St, W of Torrence Av",
+        "built": "1967-68",
+        "architect": "James Peterson",
+        "designatedDate": "2007-12-12",
+        "sourceId": "L-241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55896488928903,
+          41.66932768608801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-019",
+        "name": "Chicago Public Library/Cultural Center",
+        "category": "Civic & Institutional",
+        "description": "Built: 1897. Architect: Shepley, Rutan & Coolidge.",
+        "address": "78 E Washington St",
+        "built": "1897",
+        "architect": "Shepley, Rutan & Coolidge",
+        "designatedDate": "1976-11-05",
+        "sourceId": "L- 68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.624995891373,
+          41.883864805770585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-020",
+        "name": "Chicago, Milwaukee & St Paul Rwy Bridge No. Z-2",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1901-02. Architect: Chicago, Milwaukee & St. Paul Rwy, Designer.",
+        "address": "N Branch Chgo River, Cherry St, S of North Ave",
+        "built": "1901-02",
+        "architect": "Chicago, Milwaukee & St. Paul Rwy, Designer",
+        "designatedDate": "2007-12-12",
+        "sourceId": "L-248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65552236192832,
+          41.91037206681584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-021",
+        "name": "City Hall-County Building",
+        "category": "Civic & Institutional",
+        "description": "Built: 1905-08. Architect: Holabird and Roche.",
+        "address": "121 N LaSalle St / 118 N Clark St",
+        "built": "1905-08",
+        "architect": "Holabird and Roche",
+        "designatedDate": "1982-01-21",
+        "sourceId": "L- 71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63165545106745,
+          41.883842752279115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-022",
+        "name": "Congress Theater",
+        "category": "Culture & Community",
+        "description": "Built: 1925-26. Architect: Fridstein & Co..",
+        "address": "2117-39 N Milwaukee Av / 2117-39 N Rockwell St",
+        "built": "1925-26",
+        "architect": "Fridstein & Co.",
+        "designatedDate": "2002-07-10",
+        "sourceId": "L- 75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69224215474452,
+          41.92025836349424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-023",
+        "name": "Continental And Commercial National Bank Building",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1914. Architect: D. H Burnham & Co.; Graham Anderson Probst & White.",
+        "address": "208 South LaSalle St",
+        "built": "1914",
+        "architect": "D. H Burnham & Co.; Graham Anderson Probst & White",
+        "designatedDate": "2007-12-12",
+        "sourceId": "L-250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6330116438833,
+          41.87907164655442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-024",
+        "name": "Cook County Hospital Administration Building",
+        "category": "Civic & Institutional",
+        "description": "Built: 1912-14. Architect: Paul Gerhardt, Sr.\nPaul Gerhardt, Sr..",
+        "address": "1835 West Harrison Street",
+        "built": "1912-14",
+        "architect": "Paul Gerhardt, Sr.\nPaul Gerhardt, Sr.",
+        "designatedDate": "2019-01-23",
+        "sourceId": "L-351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6726569422485,
+          41.873839355879966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-025",
+        "name": "Courthouse Place",
+        "category": "Civic & Institutional",
+        "description": "Built: 1893. Architect: Otto H. Matz.",
+        "address": "54 W Hubbard St",
+        "built": "1893",
+        "architect": "Otto H. Matz",
+        "designatedDate": "1993-06-09",
+        "sourceId": "L- 77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6301312727143,
+          41.89024128994609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-026",
+        "name": "Daniel O.Hill House/SerbianAmericanMuseumSt.Sava",
+        "category": "Culture & Community",
+        "description": "Built: 1902. Architect: Frederick W. Perkins.",
+        "address": "448 W. Barry Avenue",
+        "built": "1902",
+        "architect": "Frederick W. Perkins",
+        "designatedDate": "2018-03-28",
+        "sourceId": "L-348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64137752375228,
+          41.93809181371288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-027",
+        "name": "Ebenezer Missionary Baptist Church Building",
+        "category": "Education & Religion",
+        "description": "Built: 1898-1899. Architect: Dankmar Adler.",
+        "address": "4501 S. Vincennes Ave",
+        "built": "1898-1899",
+        "architect": "Dankmar Adler",
+        "designatedDate": "2011-07-28",
+        "sourceId": "L-310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61357452048271,
+          41.81283554407108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-028",
+        "name": "Elks National Memorial Headquarters Building",
+        "category": "Culture & Community",
+        "description": "Built: 1924-26. Architect: Egerton Swartwout.",
+        "address": "2750 N Lakeview Ave",
+        "built": "1924-26",
+        "architect": "Egerton Swartwout",
+        "designatedDate": "2003-10-01",
+        "sourceId": "L- 01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63991075255042,
+          41.93232616246813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-029",
+        "name": "Engine Company 59, Truck 47",
+        "category": "Civic & Institutional",
+        "description": "Built: 1928. Architect: Argyle E. Robinson.",
+        "address": "5714 N Ridge Av",
+        "built": "1928",
+        "architect": "Argyle E. Robinson",
+        "designatedDate": "2003-10-01",
+        "sourceId": "L-232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66404993880901,
+          41.985701956061575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-030",
+        "name": "Garfield Boulevard \"L\" Station and Overpass",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1892. Architect: Myron Church.",
+        "address": "319 E Garfield Blvd",
+        "built": "1892",
+        "architect": "Myron Church",
+        "designatedDate": "2001-12-12",
+        "sourceId": "L- 99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61830638313202,
+          41.79387479843786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-031",
+        "name": "George Cleveland Hall Branch Library",
+        "category": "Civic & Institutional",
+        "description": "Built: 1931. Architect: Charles Hodgdon.",
+        "address": "4801 S. Michigan Avenue",
+        "built": "1931",
+        "architect": "Charles Hodgdon",
+        "designatedDate": "2010-02-10",
+        "sourceId": "L-284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62230101984315,
+          41.80711008963529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-032",
+        "name": "Graeme  Stewart Public School Building",
+        "category": "Education & Religion",
+        "description": "Built: 1906-07. Architect: Dwight H. Perkins(1906), John C. Christensen(1904).",
+        "address": "4505-4545 North Kenmore Ave",
+        "built": "1906-07",
+        "architect": "Dwight H. Perkins(1906), John C. Christensen(1904)",
+        "designatedDate": "2016-12-14",
+        "sourceId": "L-340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65579269423642,
+          41.96444576356103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-033",
+        "name": "Home Bank & Trust Company",
+        "category": "Residential",
+        "description": "Built: 1925-26. Architect: Karl M. Vitzthum & Co..",
+        "address": "1200-08 N Ashland Av / 1600-12 W Division St",
+        "built": "1925-26",
+        "architect": "Karl M. Vitzthum & Co.",
+        "designatedDate": "2008-02-06",
+        "sourceId": "L-254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6679532826877,
+          41.90359539284481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-034",
+        "name": "Hotel St. Benedict Flats",
+        "category": "Residential",
+        "description": "Built: 1882-83. Architect: James J. Egan.",
+        "address": "40-52 E Chicago Av",
+        "built": "1882-83",
+        "architect": "James J. Egan",
+        "designatedDate": "1996-03-26",
+        "sourceId": "L-115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62642859425318,
+          41.896947992898475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-035",
+        "name": "Humboldt Park Receptory Building and Stable",
+        "category": "Culture & Community",
+        "description": "Built: 1895-96. Architect: Frommann & Jebsen.",
+        "address": "3015 W Divison St",
+        "built": "1895-96",
+        "architect": "Frommann & Jebsen",
+        "designatedDate": "2008-02-06",
+        "sourceId": "L-255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70333620337743,
+          41.90231696321709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-036",
+        "name": "Hyde Park Union Church",
+        "category": "Education & Religion",
+        "description": "Built: 1906 -1926. Architect: James Gamble Rogers & Morison & Wallace.",
+        "address": "5600-5610 South Woodlawn Avenue",
+        "built": "1906 -1926",
+        "architect": "James Gamble Rogers & Morison & Wallace",
+        "designatedDate": "2024-07-17",
+        "sourceId": "L-391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59694200945415,
+          41.793009880874706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-037",
+        "name": "Immaculata High School & Convent Buildings",
+        "category": "Education & Religion",
+        "description": "Built: 1922. Architect: Barry Byrne.",
+        "address": "640 W Irving Park Rd & 4030 N Marine Dr",
+        "built": "1922",
+        "architect": "Barry Byrne",
+        "designatedDate": "1983-07-27",
+        "sourceId": "L- 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64635686134572,
+          41.95513310721566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-038",
+        "name": "Indian Boundary Park Fieldhouse",
+        "category": "Culture & Community",
+        "description": "Built: 1929. Architect: Clarence Hatzfeld.",
+        "address": "2500 W Lunt Av",
+        "built": "1929",
+        "architect": "Clarence Hatzfeld",
+        "designatedDate": "2005-05-11",
+        "sourceId": "L-120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69259873969091,
+          42.00887605875909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-039",
+        "name": "John J. Glessner House",
+        "category": "Residential",
+        "description": "Built: 1886. Architect: Henry Hobson Richardson.",
+        "address": "1800 S Prairie Av",
+        "built": "1886",
+        "architect": "Henry Hobson Richardson",
+        "designatedDate": "1970-10-14",
+        "sourceId": "L-104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62121036431881,
+          41.857710871064675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-040",
+        "name": "Lake Shore & Michigan Southern Rwy Bridges (pair)",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1912-15. Architect: Waddell & Harrington, Designer.",
+        "address": "Calumet River, N of 98th St & E of Chicago Skyway",
+        "built": "1912-15",
+        "architect": "Waddell & Harrington, Designer",
+        "designatedDate": "2007-12-12",
+        "sourceId": "L-240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54301660827139,
+          41.719846879083725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-041",
+        "name": "Laramie State Bank Building",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1927-29. Architect: Meyer & Cook with Northwestern Terra Cotta Co..",
+        "address": "5200 W Chicago Av",
+        "built": "1927-29",
+        "architect": "Meyer & Cook with Northwestern Terra Cotta Co.",
+        "designatedDate": "1995-06-14",
+        "sourceId": "L-132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75583757401566,
+          41.89520772435837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-042",
+        "name": "Majestic Building and Theater",
+        "category": "Culture & Community",
+        "description": "Built: 1906. Architect: Edmund R. Krause.",
+        "address": "22 W Monore St",
+        "built": "1906",
+        "architect": "Edmund R. Krause",
+        "designatedDate": "2005-05-11",
+        "sourceId": "L-138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62857776019572,
+          41.88107852678595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-043",
+        "name": "Marie Schock House",
+        "category": "Residential",
+        "description": "Built: 1888. Architect: Frederick Schock.",
+        "address": "5749 W Race Av",
+        "built": "1888",
+        "architect": "Frederick Schock",
+        "designatedDate": "1999-01-20",
+        "sourceId": "L-224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76971675657133,
+          41.88975860877795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-044",
+        "name": "Museum of Science and Industry",
+        "category": "Culture & Community",
+        "description": "Built: 1891-93. Architect: Charles B. Atwood.",
+        "address": "57th St and Lake Shore Dr",
+        "built": "1891-93",
+        "architect": "Charles B. Atwood",
+        "designatedDate": "1995-11-01",
+        "sourceId": "L- 27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58288526684032,
+          41.79072111064229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-045",
+        "name": "Navy Pier (Headhouse and East End Building)",
+        "category": "Residential",
+        "description": "Built: 1916. Architect: Charles Summer Frost.",
+        "address": "Grand Av and Streeter Dr at Lake Michigan",
+        "built": "1916",
+        "architect": "Charles Summer Frost",
+        "designatedDate": "1977-11-14",
+        "sourceId": "L-150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60437063795558,
+          41.8917368421877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-046",
+        "name": "North Chicago Hospital Building",
+        "category": "Civic & Institutional",
+        "description": "Built: 1928-29. Architect: Meyer J. Sturm, arch. with M. Louis Kroman, assoc..",
+        "address": "2551 N Clark Street",
+        "built": "1928-29",
+        "architect": "Meyer J. Sturm, arch. with M. Louis Kroman, assoc.",
+        "designatedDate": "2009-05-13",
+        "sourceId": "L-274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64187438787661,
+          41.929471102855416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-047",
+        "name": "Old Chicago Main Post Office Building",
+        "category": "Civic & Institutional",
+        "description": "Built: 1921,1934. Architect: Graham, Anderson, Probst and White.",
+        "address": "433 West Van Buren St.",
+        "built": "1921,1934",
+        "architect": "Graham, Anderson, Probst and White",
+        "designatedDate": "2018-03-24",
+        "sourceId": "L-347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63867317219305,
+          41.87560039427644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-048",
+        "name": "Old Dearborn Bank Building",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1928. Architect: C.W. & George L. Rapp.",
+        "address": "203 N Wabash Av",
+        "built": "1928",
+        "architect": "C.W. & George L. Rapp",
+        "designatedDate": "2003-06-04",
+        "sourceId": "L-157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62601965884696,
+          41.88605720880657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-049",
+        "name": "Palmer House Hotel",
+        "category": "Residential",
+        "description": "Built: 1925-27. Architect: Holabird & Roche.",
+        "address": "17 E Monroe St",
+        "built": "1925-27",
+        "architect": "Holabird & Roche",
+        "designatedDate": "2006-12-13",
+        "sourceId": "L- 35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62693450101355,
+          41.880369666833985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-050",
+        "name": "Pennsylvania Railroad \"Eight Track\" Bridge",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1901, 9-10. Architect: Scherzer Rolling Lift Bridge Co., Designer.",
+        "address": "San & Ship Canal, S of 31st & W of Western Av",
+        "built": "1901, 9-10",
+        "architect": "Scherzer Rolling Lift Bridge Co., Designer",
+        "designatedDate": "2007-12-12",
+        "sourceId": "L-244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68765601208975,
+          41.83705652820854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-051",
+        "name": "Portage Park Theatre Building",
+        "category": "Culture & Community",
+        "description": "Built: 1919-20. Architect: Lindley P. Rowe, in association with Fridstein &Co.",
+        "address": "4240-60 N. Milwaukee Ave",
+        "built": "1919-20",
+        "architect": "Lindley P. Rowe, in association with Fridstein &Co",
+        "designatedDate": "2013-05-08",
+        "sourceId": "L-319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74929514322923,
+          41.95419685146206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-052",
+        "name": "Roanoke Building and Tower",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1915,1922. Architect: Holabird-Roche; Rebori Wentworth Dewey McCormick.",
+        "address": "11 S LaSalle St",
+        "built": "1915,1922",
+        "architect": "Holabird-Roche; Rebori Wentworth Dewey McCormick",
+        "designatedDate": "2007-12-12",
+        "sourceId": "L-252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63192991383897,
+          41.881744056280596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-053",
+        "name": "Roberts Temple Church of God in Christ Building",
+        "category": "Education & Religion",
+        "description": "Built: 1922. Architect: Edw. G. McClellan 1927 addn; Unknown remod:1992-93.",
+        "address": "4021 S State St",
+        "built": "1922",
+        "architect": "Edw. G. McClellan 1927 addn; Unknown remod:1992-93",
+        "designatedDate": "2006-03-29",
+        "sourceId": "L- 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62591132434983,
+          41.821209901266066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-054",
+        "name": "St. Gelasius Church Building",
+        "category": "Education & Religion",
+        "description": "Built: 1923-28. Architect: Henry J. Schlacks.",
+        "address": "6401-09 S Woodlawn Av",
+        "built": "1923-28",
+        "architect": "Henry J. Schlacks",
+        "designatedDate": "2004-01-14",
+        "sourceId": "L- 02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59572973109644,
+          41.7784483365022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-055",
+        "name": "Stone Temple Baptist Church Building",
+        "category": "Education & Religion",
+        "description": "Built: 1926. Architect: Joseph W. Cohen & Co.",
+        "address": "3620-3624 W. Douglas Blvd/ 1337-1349 S. Millard",
+        "built": "1926",
+        "architect": "Joseph W. Cohen & Co",
+        "designatedDate": "2016-06-22",
+        "sourceId": "L-336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7162892327724,
+          41.86317025267858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-056",
+        "name": "Third Unitarian Church Building",
+        "category": "Education & Religion",
+        "description": "Built: 1936,1956. Architect: Paul Schweikher; William B. Fyfe, 1956 addn.",
+        "address": "301 N Mayfield Av",
+        "built": "1936,1956",
+        "architect": "Paul Schweikher; William B. Fyfe, 1956 addn",
+        "designatedDate": "2008-02-06",
+        "sourceId": "L-257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.77164507079078,
+          41.88584713501507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-057",
+        "name": "Truevine Missionary Baptist Church Building",
+        "category": "Education & Religion",
+        "description": "Built: 1892. Architect: Holabird and Roche.",
+        "address": "6720 S Stewart Av",
+        "built": "1892",
+        "architect": "Holabird and Roche",
+        "designatedDate": "2007-02-07",
+        "sourceId": "L- 37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63525638385065,
+          41.771784418119296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-058",
+        "name": "Union Park Hotel",
+        "category": "Culture & Community",
+        "description": "Built: 1930. Architect: Benjamin Albert Comm.",
+        "address": "1519 West Warren Blvd",
+        "built": "1930",
+        "architect": "Benjamin Albert Comm",
+        "designatedDate": "2010-06-09",
+        "sourceId": "L-289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66615368597081,
+          41.88213095620715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-059",
+        "name": "Village Theatre",
+        "category": "Culture & Community",
+        "description": "Built: 1915-16. Architect: Adolph Woerner.",
+        "address": "1546-1550 N Clark St",
+        "built": "1915-16",
+        "architect": "Adolph Woerner",
+        "designatedDate": "2009-05-13",
+        "sourceId": "L-273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63208801583909,
+          41.910845617080774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chi-060",
+        "name": "West Town State Bank Building",
+        "category": "Commercial & Industrial",
+        "description": "Built: 1929-30. Architect: Mundie & Jensen.",
+        "address": "2400 W Madison St",
+        "built": "1929-30",
+        "architect": "Mundie & Jensen",
+        "designatedDate": "2003-10-01",
+        "sourceId": "L-209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68673537214497,
+          41.88143132386551
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1146 @@
+{
+  "type": "FeatureCollection",
+  "name": "Seattle Historic Places - KCDC 2026 Workshop",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-001",
+        "name": "1st Church of Christ, Scientist",
+        "category": "Education & Religion",
+        "description": "Designated: 1977-01-17.",
+        "address": "1519 E Denny Way",
+        "designatedDate": "1977-01-17",
+        "sourceId": "83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31167996263274,
+          47.618290377191975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-002",
+        "name": "Admiral Theater",
+        "category": "Culture & Community",
+        "description": "Designated: 1993-12-13.",
+        "address": "2343 California Ave SW",
+        "designatedDate": "1993-12-13",
+        "sourceId": "173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38691312756498,
+          47.58198234144065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-003",
+        "name": "Anhalt Apartment Building",
+        "category": "Residential",
+        "description": "Designated: 1899-12-30.",
+        "address": "1600 E John St",
+        "designatedDate": "1899-12-30",
+        "sourceId": "419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31096441507307,
+          47.61991282012903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-004",
+        "name": "Anhalt Apartment Building",
+        "category": "Residential",
+        "description": "Designated: 1979-05-14.",
+        "address": "1014 E Roy St",
+        "designatedDate": "1979-05-14",
+        "sourceId": "68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31948953732334,
+          47.62551814649925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-005",
+        "name": "Baroness Apartment Hotel",
+        "category": "Residential",
+        "description": "",
+        "address": "1005 Spring St",
+        "designatedDate": "",
+        "sourceId": "339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3264765478928,
+          47.609587680066674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-006",
+        "name": "Boren Investment Company Warehouse Building",
+        "category": "Residential",
+        "description": "Designated: 2014-07-13.",
+        "address": "334 Boren Ave N",
+        "designatedDate": "2014-07-13",
+        "sourceId": "364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33550541413722,
+          47.62178178685736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-007",
+        "name": "Broad St Substation",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 2017-10-31.",
+        "address": "319 6th Ave N",
+        "designatedDate": "2017-10-31",
+        "sourceId": "481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34577331556706,
+          47.62181479421167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-008",
+        "name": "Cedar Park Elementary School",
+        "category": "Education & Religion",
+        "description": "Designated: 1899-12-30.",
+        "address": "13224 37th Ave NE",
+        "designatedDate": "1899-12-30",
+        "sourceId": "371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2874815754667,
+          47.72606347845079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-009",
+        "name": "Chelsea Apartment Building",
+        "category": "Residential",
+        "description": "Designated: 1978-10-23.",
+        "address": "620 W Olympic Pl",
+        "designatedDate": "1978-10-23",
+        "sourceId": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36565929151153,
+          47.62794891036801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-010",
+        "name": "Church of the Blessed Sacrament and Rectory",
+        "category": "Education & Religion",
+        "description": "Designated: 1981-03-02.",
+        "address": "5041 9th Ave NE",
+        "designatedDate": "1981-03-02",
+        "sourceId": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31875904537871,
+          47.666553068556205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-011",
+        "name": "Cleveland High School",
+        "category": "Education & Religion",
+        "description": "Designated: 2003-10-26.",
+        "address": "5511 15th Ave S",
+        "designatedDate": "2003-10-26",
+        "sourceId": "184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31426828114876,
+          47.55226417747949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-012",
+        "name": "Coliseum Theatre Building",
+        "category": "Culture & Community",
+        "description": "Designated: 1978-01-17.",
+        "address": "5th Ave / Pike St",
+        "designatedDate": "1978-01-17",
+        "sourceId": "110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33550169486674,
+          47.611036292760346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-013",
+        "name": "Colman School",
+        "category": "Education & Religion",
+        "description": "Designated: 2009-05-15.",
+        "address": "2300 S Massachusetts St",
+        "designatedDate": "2009-05-15",
+        "sourceId": "290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30184959079608,
+          47.58935248525821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-014",
+        "name": "Colonnade Hotel/Gatewood Apartments",
+        "category": "Residential",
+        "description": "Designated: 2017-06-20.",
+        "address": "107 Pine St",
+        "designatedDate": "2017-06-20",
+        "sourceId": "468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34039057926901,
+          47.609731228749936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-015",
+        "name": "Cooper Elementary School",
+        "category": "Education & Religion",
+        "description": "Designated: 2005-08-24.",
+        "address": "4408 Delridge Way SW",
+        "designatedDate": "2005-08-24",
+        "sourceId": "272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36301854800035,
+          47.56380458031328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-016",
+        "name": "Cowen Park Bridge",
+        "category": "Culture & Community",
+        "description": "Designated: 1981-12-28.",
+        "address": "15th Ave NE / Cowen Pl NE",
+        "designatedDate": "1981-12-28",
+        "sourceId": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31196877218542,
+          47.673125492788294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-017",
+        "name": "Daniel Bagley Elementary School",
+        "category": "Education & Religion",
+        "description": "Designated: 2015-05-06.",
+        "address": "7821 Stone Ave N",
+        "designatedDate": "2015-05-06",
+        "sourceId": "442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34232183518137,
+          47.68636224719279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-018",
+        "name": "Del a Mar Apartment Building",
+        "category": "Residential",
+        "description": "Designated: 1978-10-23.",
+        "address": "115 W Olympic Pl",
+        "designatedDate": "1978-10-23",
+        "sourceId": "62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35893173242698,
+          47.62652088052591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-019",
+        "name": "East Pine Substation",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1899-12-30.",
+        "address": "1501 23rd Ave",
+        "designatedDate": "1899-12-30",
+        "sourceId": "487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30289906183529,
+          47.6145777095446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-020",
+        "name": "Fire Station #14",
+        "category": "Civic & Institutional",
+        "description": "Designated: 2007-09-21.",
+        "address": "3224 4th Ave S",
+        "designatedDate": "2007-09-21",
+        "sourceId": "285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32857547161365,
+          47.574605472681704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-021",
+        "name": "Fire Station #16",
+        "category": "Civic & Institutional",
+        "description": "Designated: 2007-09-21.",
+        "address": "6846 Oswego Pl NE",
+        "designatedDate": "2007-09-21",
+        "sourceId": "278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32326829088437,
+          47.67908809483843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-022",
+        "name": "Fire Station #17",
+        "category": "Civic & Institutional",
+        "description": "Designated: 2007-09-21.",
+        "address": "1010 NE 50th St",
+        "designatedDate": "2007-09-21",
+        "sourceId": "286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31677724624753,
+          47.665163215482025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-023",
+        "name": "Fire Station #37",
+        "category": "Civic & Institutional",
+        "description": "Designated: 2007-09-21.",
+        "address": "7302 35th Ave SW",
+        "designatedDate": "2007-09-21",
+        "sourceId": "279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37624935858761,
+          47.53719284440121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-024",
+        "name": "Fire Station #38",
+        "category": "Civic & Institutional",
+        "description": "Designated: 2007-09-21.",
+        "address": "5503 33rd Ave NE",
+        "designatedDate": "2007-09-21",
+        "sourceId": "280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29296889508247,
+          47.6687123410573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-025",
+        "name": "Fire Station #41",
+        "category": "Civic & Institutional",
+        "description": "Designated: 2007-09-21.",
+        "address": "2416 34th Ave W",
+        "designatedDate": "2007-09-21",
+        "sourceId": "287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40065689355657,
+          47.64015753365764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-026",
+        "name": "Fire Station #5",
+        "category": "Civic & Institutional",
+        "description": "Designated: 1899-12-30.",
+        "address": "925 Alaskan Way",
+        "designatedDate": "1899-12-30",
+        "sourceId": "405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33868224080955,
+          47.60358060750313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-027",
+        "name": "Fire Station #6",
+        "category": "Civic & Institutional",
+        "description": "Designated: 2007-09-21.",
+        "address": "101 23rd Ave S",
+        "designatedDate": "2007-09-21",
+        "sourceId": "284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30278144062308,
+          47.601494053426286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-028",
+        "name": "Former Fire Station 26 / South Park Neighborhood Center",
+        "category": "Civic & Institutional",
+        "description": "",
+        "address": "8201 10th Avenue S",
+        "designatedDate": "",
+        "sourceId": "759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32060900906131,
+          47.529642385180935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-029",
+        "name": "Fremont Bridge",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1981-12-28.",
+        "address": "Fremont Ave N / N 34th St",
+        "designatedDate": "1981-12-28",
+        "sourceId": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34979081117287,
+          47.647652519424554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-030",
+        "name": "Gas Works Park",
+        "category": "Culture & Community",
+        "description": "Designated: 2002-12-16.",
+        "address": "1901-2101 N Northlake Way",
+        "designatedDate": "2002-12-16",
+        "sourceId": "225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33485533738549,
+          47.645494243636605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-031",
+        "name": "George Washington Memorial \"Aurora\" Bridge",
+        "category": "Culture & Community",
+        "description": "Designated: 1981-12-28.",
+        "address": "Aurora Ave N / N 34th St",
+        "designatedDate": "1981-12-28",
+        "sourceId": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34728318404548,
+          47.64704494062392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-032",
+        "name": "Georgetown City Hall / Fire Station #27",
+        "category": "Civic & Institutional",
+        "description": "Designated: 1983-09-12.",
+        "address": "6202 13th Ave S",
+        "designatedDate": "1983-09-12",
+        "sourceId": "187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31583430001577,
+          47.54757032240167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-033",
+        "name": "Hillcrest Apartment Building",
+        "category": "Residential",
+        "description": "Designated: 1981-03-11.",
+        "address": "1616 E Howell St",
+        "designatedDate": "1981-03-11",
+        "sourceId": "84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31053103602878,
+          47.61786459555495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-034",
+        "name": "Hotel Elliott / Hahn Building",
+        "category": "Commercial & Industrial",
+        "description": "",
+        "address": "103 Pike Street",
+        "designatedDate": "",
+        "sourceId": "637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33961695281076,
+          47.60882287571801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-035",
+        "name": "Immanual Lutheran Church",
+        "category": "Education & Religion",
+        "description": "Designated: 1981-03-02.",
+        "address": "1215 Thomas St",
+        "designatedDate": "1981-03-02",
+        "sourceId": "74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33215767604489,
+          47.62065940918017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-036",
+        "name": "L. C. Smith Building (Smith Tower)",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1987-05-11.",
+        "address": "506 2nd Ave",
+        "designatedDate": "1987-05-11",
+        "sourceId": "156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33176816956028,
+          47.601936803461086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-037",
+        "name": "Lacey V Murrow Bridge & E Portals of the Mt Baker Tunnels",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1979-06-11.",
+        "address": "XXXXX",
+        "designatedDate": "1979-06-11",
+        "sourceId": "170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28441964903192,
+          47.589898649160595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-038",
+        "name": "Leona/Park Ridge Apartments",
+        "category": "Culture & Community",
+        "description": "Designated: 2008-11-07.",
+        "address": "916 Queen Anne Ave N",
+        "designatedDate": "2008-11-07",
+        "sourceId": "296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35617736805193,
+          47.62778648143479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-039",
+        "name": "Log House Museum Building",
+        "category": "Culture & Community",
+        "description": "Designated: 1996-08-12.",
+        "address": "3003 61st Av SW",
+        "designatedDate": "1996-08-12",
+        "sourceId": "202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41095787861066,
+          47.57757464157791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-040",
+        "name": "Montlake Bridge and Montlake Cut",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1979-12-13.",
+        "address": "24th Ave E / E Montlake Pl E",
+        "designatedDate": "1979-12-13",
+        "sourceId": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30463961488081,
+          47.64722758841612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-041",
+        "name": "Moore Theatre and Hotel Building",
+        "category": "Culture & Community",
+        "description": "Designated: 1989-10-16.",
+        "address": "1932 2nd Ave",
+        "designatedDate": "1989-10-16",
+        "sourceId": "102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34110065015415,
+          47.61174200207583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-042",
+        "name": "N Queen Anne Dr Bridge",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1981-12-28.",
+        "address": "Queen Anne Dr / Warren Ave N",
+        "designatedDate": "1981-12-28",
+        "sourceId": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35217793434158,
+          47.64227474779138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-043",
+        "name": "Northern Bank and Trust/Seaboard Building",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1989-10-16.",
+        "address": "1506 Westlake Ave",
+        "designatedDate": "1989-10-16",
+        "sourceId": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33650668671636,
+          47.61057624443202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-044",
+        "name": "Old Fire Station #23",
+        "category": "Civic & Institutional",
+        "description": "Designated: 1976-12-21.",
+        "address": "722 18th Ave",
+        "designatedDate": "1976-12-21",
+        "sourceId": "125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30854734737223,
+          47.60870769082333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-045",
+        "name": "Old Fire Station #33",
+        "category": "Civic & Institutional",
+        "description": "Designated: 1976-12-21.",
+        "address": "10235 62nd Ave S",
+        "designatedDate": "1976-12-21",
+        "sourceId": "192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2563966874069,
+          47.50876660305783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-046",
+        "name": "Old Main St School",
+        "category": "Education & Religion",
+        "description": "Designated: 1977-01-17.",
+        "address": "307 6th Ave S",
+        "designatedDate": "1977-01-17",
+        "sourceId": "157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32661835691547,
+          47.59971112551914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-047",
+        "name": "Olympic Tower",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1987-05-11.",
+        "address": "217 Pine St",
+        "designatedDate": "1987-05-11",
+        "sourceId": "114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33886492614306,
+          47.61037797549777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-048",
+        "name": "Olympic Warehouse and Cold Storage Building",
+        "category": "Residential",
+        "description": "Designated: 1987-05-11.",
+        "address": "1205 Western Ave",
+        "designatedDate": "1987-05-11",
+        "sourceId": "134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33928667099221,
+          47.60579104444947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-049",
+        "name": "Panama Hotel and Hashidate Yu Bathhouse",
+        "category": "Residential",
+        "description": "",
+        "address": "605 South Main St",
+        "designatedDate": "",
+        "sourceId": "728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32600013714276,
+          47.599916784546174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-050",
+        "name": "Paramount Theatre and Building",
+        "category": "Culture & Community",
+        "description": "Designated: 1995-02-13.",
+        "address": "901 Pine St",
+        "designatedDate": "1995-02-13",
+        "sourceId": "95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33162745553469,
+          47.61348988632471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-051",
+        "name": "Parker-Fersen House",
+        "category": "Culture & Community",
+        "description": "Designated: 1987-05-11.",
+        "address": "1409 E Prospect St",
+        "designatedDate": "1987-05-11",
+        "sourceId": "65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31394855538086,
+          47.628208109345515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-052",
+        "name": "Salmon Bay Bridge",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1981-03-02.",
+        "address": "XXXXX",
+        "designatedDate": "1981-03-02",
+        "sourceId": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40196114797224,
+          47.66690353104329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-053",
+        "name": "San Remo Apartment Building",
+        "category": "Residential",
+        "description": "Designated: 1988-05-31.",
+        "address": "606 E Thomas St",
+        "designatedDate": "1988-05-31",
+        "sourceId": "75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3237583849296,
+          47.62102045435282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-054",
+        "name": "Schmitz Park Bridge",
+        "category": "Culture & Community",
+        "description": "Designated: 1981-12-28.",
+        "address": "SW Admiral Way / SW Stevens St",
+        "designatedDate": "1981-12-28",
+        "sourceId": "195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40342665509478,
+          47.577241004204275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-055",
+        "name": "Seattle Asian Art Museum at Volunteer Park",
+        "category": "Culture & Community",
+        "description": "",
+        "address": "1400 E Prospect St",
+        "designatedDate": "",
+        "sourceId": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31433362001953,
+          47.63029982735036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-056",
+        "name": "Seattle Buddhist Church",
+        "category": "Education & Religion",
+        "description": "Designated: 1976-12-27.",
+        "address": "1427 S Main St",
+        "designatedDate": "1976-12-27",
+        "sourceId": "160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31313883974049,
+          47.599799345010965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-057",
+        "name": "Seattle National Bank (United Way Building)",
+        "category": "Commercial & Industrial",
+        "description": "Designated: 1899-12-30.",
+        "address": "720 Second Ave",
+        "designatedDate": "1899-12-30",
+        "sourceId": "370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33329387376057,
+          47.60366736429851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-058",
+        "name": "Town Hall Seattle (Fourth Church of Christ, Scientist)",
+        "category": "Education & Religion",
+        "description": "Designated: 1899-12-30.",
+        "address": "1119 8th Ave",
+        "designatedDate": "1899-12-30",
+        "sourceId": "375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32995744756484,
+          47.60901349415716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-059",
+        "name": "University Library",
+        "category": "Education & Religion",
+        "description": "Designated: 2003-03-24.",
+        "address": "5009 Roosevelt Way NE",
+        "designatedDate": "2003-03-24",
+        "sourceId": "244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31792788639562,
+          47.66525485838582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sea-060",
+        "name": "Victorian Row Apartment Building",
+        "category": "Residential",
+        "description": "Designated: 1979-05-14.",
+        "address": "1236-38 S King St",
+        "designatedDate": "1979-05-14",
+        "sourceId": "163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3156782440301,
+          47.598592666717735
+        ]
+      }
+    }
+  ]
+}
