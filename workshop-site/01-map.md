@@ -333,10 +333,9 @@ Then restore the height before continuing.
 
 The point is not to memorize a fix. It is to recognize this symptom later:
 
-> Leaflet controls are present or JavaScript is running, but the map itself has no visible space.
+> Leaflet controls are present or JavaScript is running, but the map itself has no visible space. <button class="discovery-token discovery-token--inline" type="button" data-discovery-id="invisible-map" aria-label="Hidden discovery" title="Hmm...">🐛</button>
 
-<!-- OPTIONAL-END -->
----
+## <!-- OPTIONAL-END -->
 
 # 🛠️ Your Turn 5 - Add OpenStreetMap Tiles
 
@@ -744,8 +743,7 @@ before continuing.
 
 Want more customization ideas? Find them under **Explore More → ✨ Make It Yours** in the workshop navigation.
 
-<!-- OPTIONAL-END -->
----
+## <!-- OPTIONAL-END -->
 
 # ✅ Check Your Work
 

@@ -49,7 +49,7 @@ state.places + state.category
 
 The important idea:
 
-> The map and sidebar do not filter themselves separately. They both receive the same filtered array.
+> The map and sidebar do not filter themselves separately. They both receive the same filtered array. <button class="discovery-token" type="button" data-discovery-id="state-keeper" aria-label="Hidden discovery" title="Hmm...">🔎</button>
 
 ---
 
@@ -356,8 +356,7 @@ Reorder the `<option>` elements in HTML.
 
 Want more filtering ideas? Find them under **Explore More → ✨ Make It Yours** in the workshop navigation.
 
-<!-- OPTIONAL-END -->
----
+## <!-- OPTIONAL-END -->
 
 # ✅ Check Your Work
 

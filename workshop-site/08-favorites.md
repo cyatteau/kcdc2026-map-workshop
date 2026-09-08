@@ -26,6 +26,7 @@ checkpoints/07-complete
 # 🎉 Core Workshop Complete
 
 You built a City Explorer with:
+
 # 08 - Add Favorites
 
 ## Goal
@@ -122,7 +123,7 @@ state.favoriteIds changes
 UI updates
 ```
 
-This is the payoff from Step 07.
+This is the payoff from Step 07. <button class="discovery-token" type="button" data-discovery-id="favorite-find" aria-label="Hidden discovery" title="Hmm...">⭐</button>
 
 ---
 
@@ -219,31 +220,23 @@ At the bottom of `state.js`, add:
 export function toggleFavorite(id) {
   const key = String(id);
 
-  const alreadyFavorite =
-    state.favoriteIds.includes(key);
+  const alreadyFavorite = state.favoriteIds.includes(key);
 
   if (alreadyFavorite) {
-    state.favoriteIds =
-      state.favoriteIds.filter(
-        (favoriteId) =>
-          favoriteId !== key,
-      );
+    state.favoriteIds = state.favoriteIds.filter(
+      (favoriteId) => favoriteId !== key,
+    );
 
     return false;
   }
 
-  state.favoriteIds = [
-    ...state.favoriteIds,
-    key,
-  ];
+  state.favoriteIds = [...state.favoriteIds, key];
 
   return true;
 }
 
 export function isFavorite(id) {
-  return state.favoriteIds.includes(
-    String(id),
-  );
+  return state.favoriteIds.includes(String(id));
 }
 ```
 
@@ -321,12 +314,7 @@ Immediately before the place list, add:
 
 ```html
 <div class="favorite-tools">
-  <button
-    id="favorite-button"
-    class="favorite-button"
-    type="button"
-    disabled
-  >
+  <button id="favorite-button" class="favorite-button" type="button" disabled>
     ☆ Select a place to favorite
   </button>
 </div>
@@ -468,10 +456,7 @@ js/ui.js
 Near the existing DOM references, add:
 
 ```js
-const favoriteButton =
-  document.querySelector(
-    "#favorite-button",
-  );
+const favoriteButton = document.querySelector("#favorite-button");
 ```
 
 Now the UI module has access to the new button.
@@ -498,21 +483,13 @@ export function renderList(
 Inside the loop, after:
 
 ```js
-const {
-  id,
-  name,
-  category,
-  description,
-} = feature.properties;
+const { id, name, category, description } = feature.properties;
 ```
 
 add:
 
 ```js
-const isFavorite =
-  favoriteIds.includes(
-    String(id),
-  );
+const isFavorite = favoriteIds.includes(String(id));
 ```
 
 Now `renderList()` knows whether each feature is currently a favorite.
@@ -524,11 +501,9 @@ Now `renderList()` knows whether each feature is currently a favorite.
 Find the code that creates the card title:
 
 ```js
-const title =
-  document.createElement("strong");
+const title = document.createElement("strong");
 
-title.className =
-  "place-card__title";
+title.className = "place-card__title";
 
 title.textContent = name;
 ```
@@ -536,17 +511,13 @@ title.textContent = name;
 Immediately after it, add:
 
 ```js
-const titleRow =
-  document.createElement("span");
+const titleRow = document.createElement("span");
 
-titleRow.className =
-  "place-card__title-row";
+titleRow.className = "place-card__title-row";
 
-const favorite =
-  document.createElement("span");
+const favorite = document.createElement("span");
 
-favorite.className =
-  "place-card__favorite";
+favorite.className = "place-card__favorite";
 
 favorite.dataset.favoriteStar = "";
 
@@ -554,33 +525,21 @@ favorite.textContent = "★";
 
 favorite.hidden = !isFavorite;
 
-favorite.setAttribute(
-  "aria-hidden",
-  "true",
-);
+favorite.setAttribute("aria-hidden", "true");
 
-titleRow.append(
-  title,
-  favorite,
-);
+titleRow.append(title, favorite);
 ```
 
 Then find:
 
 ```js
-button.append(
-  title,
-  categoryElement,
-);
+button.append(title, categoryElement);
 ```
 
 Replace it with:
 
 ```js
-button.append(
-  titleRow,
-  categoryElement,
-);
+button.append(titleRow, categoryElement);
 ```
 
 Cards can now display a star when their ID appears in `favoriteIds`.
@@ -606,25 +565,20 @@ Cards can now display a star when their ID appears in `favoriteIds`.
 At the bottom of `ui.js`, add:
 
 ```js
-export function setFavoriteButton(
-  selectedId,
-  favorite,
-) {
+export function setFavoriteButton(selectedId, favorite) {
   if (!selectedId) {
     favoriteButton.disabled = true;
 
-    favoriteButton.textContent =
-      "☆ Select a place to favorite";
+    favoriteButton.textContent = "☆ Select a place to favorite";
 
     return;
   }
 
   favoriteButton.disabled = false;
 
-  favoriteButton.textContent =
-    favorite
-      ? "★ Remove favorite"
-      : "☆ Save favorite";
+  favoriteButton.textContent = favorite
+    ? "★ Remove favorite"
+    : "☆ Save favorite";
 }
 ```
 
@@ -647,25 +601,16 @@ selected + favorite
 Now add:
 
 ```js
-export function updateFavoriteCard(
-  id,
-  favorite,
-) {
+export function updateFavoriteCard(id, favorite) {
   const key = String(id);
 
-  const card =
-    document.querySelector(
-      `[data-place-id="${CSS.escape(key)}"]`,
-    );
+  const card = document.querySelector(`[data-place-id="${CSS.escape(key)}"]`);
 
   if (!card) {
     return;
   }
 
-  const star =
-    card.querySelector(
-      "[data-favorite-star]",
-    );
+  const star = card.querySelector("[data-favorite-star]");
 
   if (star) {
     star.hidden = !favorite;
@@ -678,15 +623,10 @@ This updates the matching card without rebuilding the entire list.
 Finally add:
 
 ```js
-export function bindFavoriteClick(
-  onToggle,
-) {
-  favoriteButton.addEventListener(
-    "click",
-    () => {
-      onToggle();
-    },
-  );
+export function bindFavoriteClick(onToggle) {
+  favoriteButton.addEventListener("click", () => {
+    onToggle();
+  });
 }
 ```
 
@@ -788,10 +728,7 @@ highlightSelectedCard(key);
 Immediately after it, add:
 
 ```js
-setFavoriteButton(
-  key,
-  isFavorite(key),
-);
+setFavoriteButton(key, isFavorite(key));
 ```
 
 Now selecting a place asks:
@@ -839,10 +776,7 @@ renderList(features);
 Replace it with:
 
 ```js
-renderList(
-  features,
-  state.favoriteIds,
-);
+renderList(features, state.favoriteIds);
 ```
 
 Then add:
@@ -850,9 +784,7 @@ Then add:
 ```js
 setFavoriteButton(
   state.selectedId,
-  state.selectedId
-    ? isFavorite(state.selectedId)
-    : false,
+  state.selectedId ? isFavorite(state.selectedId) : false,
 );
 ```
 
@@ -874,18 +806,11 @@ bindFavoriteClick(() => {
     return;
   }
 
-  const favorite =
-    toggleFavorite(id);
+  const favorite = toggleFavorite(id);
 
-  updateFavoriteCard(
-    id,
-    favorite,
-  );
+  updateFavoriteCard(id, favorite);
 
-  setFavoriteButton(
-    id,
-    favorite,
-  );
+  setFavoriteButton(id, favorite);
 });
 ```
 
@@ -1163,6 +1088,7 @@ But it is still one view of a larger web application.
 # Next
 
 Head to **Explore More → ✨ Make It Yours** in the workshop navigation, or try one of the optional extensions.
+
 ```text
 map
 +

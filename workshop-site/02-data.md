@@ -177,7 +177,7 @@ The same location written in the order Leaflet commonly uses would be:
 
 The order is different.
 
-When we use `L.geoJSON()`, Leaflet handles that conversion for us.
+When we use `L.geoJSON()`, Leaflet handles that conversion for us. <button class="discovery-token" type="button" data-discovery-id="coordinate-conundrum" aria-label="Hidden discovery" title="Hmm...">🧭</button>
 
 Our data flow for this section will be:
 
@@ -516,8 +516,8 @@ Open **Developer Tools → Network**.
 ```text
 kansas-city.geojson
 ```
-3. Refresh the page.
 
+3. Refresh the page.
 
 You should see the GeoJSON request.
 
@@ -1166,8 +1166,7 @@ For the easiest path with the instructor, return to the original version before 
 
 Want more data ideas? Find them under **Explore More → ✨ Make It Yours** in the workshop navigation.
 
-<!-- OPTIONAL-END -->
----
+## <!-- OPTIONAL-END -->
 
 # ✅ Check Your Work
 

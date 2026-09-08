@@ -87,6 +87,8 @@ workshop-work
 
 The checkpoint folders stay clean so you can use them to recover later.
 
+<button class="discovery-token" type="button" data-discovery-id="first-steps" aria-label="Hidden discovery" title="Hmm...">🗺️</button>
+
 ---
 
 # 3. Add the API Key

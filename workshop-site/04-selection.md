@@ -93,6 +93,8 @@ The key idea:
 }
 ```
 
+<button class="discovery-token" type="button" data-discovery-id="shared-id-detective" aria-label="Hidden discovery" title="Hmm...">🔗</button>
+
 <!-- OPTIONAL VIDEO SLOT
 Suggested clip: "Shared IDs and Synchronized Views"
 Suggested length: 60 seconds
@@ -454,8 +456,7 @@ Try `14`, `16`, or `17`.
 
 Want more selection ideas? Find them under **Explore More → ✨ Make It Yours** in the workshop navigation.
 
-<!-- OPTIONAL-END -->
----
+## <!-- OPTIONAL-END -->
 
 # ✅ Check Your Work
 

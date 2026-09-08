@@ -73,7 +73,7 @@ Then we'll split responsibilities:
       state.js    data.js     map.js      ui.js
 ```
 
-`app.js` coordinates. The other files own focused jobs.
+`app.js` coordinates. The other files own focused jobs. <button class="discovery-token" type="button" data-discovery-id="module-master" aria-label="Hidden discovery" title="Hmm...">🧩</button>
 
 ---
 
