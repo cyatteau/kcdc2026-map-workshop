@@ -1,0 +1,1146 @@
+{
+  "type": "FeatureCollection",
+  "name": "Washington Dc Historic Places - KCDC 2026 Workshop",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-001",
+        "name": "Alban Towers (and Interiors)",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07371297117113,
+          38.9281901714413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-002",
+        "name": "Ambassador Romuald Spasowski House",
+        "category": "Residential",
+        "description": "Status: Designated. Designated: 2017-04-27.",
+        "status": "Designated",
+        "designatedDate": "2017-04-27",
+        "sourceId": "L_1482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06392974322739,
+          38.9484593796749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-003",
+        "name": "Arlington Memorial Bridge",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0554836903944,
+          38.88734842031154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-004",
+        "name": "Arts and Industries Building, Smithsonian Institution (National Museum)",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02448136971901,
+          38.888179732654926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-005",
+        "name": "Augusta & Louisa Apartment Buildings",
+        "category": "Residential",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_1371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01432460619824,
+          38.90518689032241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-006",
+        "name": "Capital Traction Company Union Station",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated. Designated: 2019-01-24.",
+        "status": "Designated",
+        "designatedDate": "2019-01-24",
+        "sourceId": "L_1522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06986622392748,
+          38.905430470830474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-007",
+        "name": "Capitol Park Towers",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_1444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01639921005416,
+          38.882023799457976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-008",
+        "name": "Central Public Library (Carnegie Library)",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02294548789172,
+          38.902608585297784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-009",
+        "name": "Chain Bridge Road School",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09587877294248,
+          38.92768628809908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-010",
+        "name": "Control Point Virginia Tower",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated. Designated: 2016-03-02.",
+        "status": "Designated",
+        "designatedDate": "2016-03-02",
+        "sourceId": "L_1521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01347281297146,
+          38.88355522131246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-011",
+        "name": "Daughters of the American Revolution, Memorial Continental Hall",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04000427330642,
+          38.89394378948837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-012",
+        "name": "Ellington, Duke, Bridge (Calvert St. Bridge)",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04885391649594,
+          38.92336964048211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-013",
+        "name": "Embassy Gulf Service Station",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04916281070027,
+          38.9093175175188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-014",
+        "name": "Federal Home Loan Bank Board",
+        "category": "Residential",
+        "description": "Status: Designated. Designated: 2016-06-23.",
+        "status": "Designated",
+        "designatedDate": "2016-06-23",
+        "sourceId": "L_1520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04039278433125,
+          38.89805202092478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-015",
+        "name": "Folger Shakespeare Library",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0027799229095,
+          38.88939535174747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-016",
+        "name": "Franciscan Monastery & Memorial Church of the Holy Land",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98521652365818,
+          38.93748043653674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-017",
+        "name": "Gage, Nathaniel Parker, School",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01418952848627,
+          38.91756964739634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-018",
+        "name": "Georgetown Commercial Buildings - Reckert House",
+        "category": "Residential",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06391491187381,
+          38.90497674932533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-019",
+        "name": "Georgetown Commercial Buildings - Sims House",
+        "category": "Residential",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05719320835819,
+          38.905413616186124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-020",
+        "name": "Gladstone & Hawarden Apartment Buildings",
+        "category": "Residential",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03309684222907,
+          38.912926582522914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-021",
+        "name": "Grace Reformed Church, Sunday School, & Parish House",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03419086960389,
+          38.909077056578326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-022",
+        "name": "Gunboat Philadelphia (in the National Museum of American History)",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03003567286896,
+          38.89123061869808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-023",
+        "name": "Homer Building",
+        "category": "Residential",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02913883685241,
+          38.89784638525916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-024",
+        "name": "House Office Building (Cannon House Office Building)",
+        "category": "Residential",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00694725873076,
+          38.886257109065845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-025",
+        "name": "Immaculate Conception Church, School, Rectory, & Residence",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022661450712,
+          38.907522525796786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-026",
+        "name": "Lee, Thomas Sim Corner (Thomas Sim Lee Houses and Ross & Getty Building)",
+        "category": "Residential",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05944706290829,
+          38.90538785322995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-027",
+        "name": "Library of Congress",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00470536334912,
+          38.88868615952572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-028",
+        "name": "Luther Place Memorial Church (and Luther Statue)",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03159701898785,
+          38.90697070730235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-029",
+        "name": "Main Sewerage Pumping Station",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_1388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00337114357346,
+          38.873641230183374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-030",
+        "name": "Martin Luther King Jr. Memorial Library (and interiors)",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02476845328438,
+          38.898699170497046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-031",
+        "name": "Masonic Temple (Nat'l Museum of Women in the Arts)",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02915521023418,
+          38.90005570908775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-032",
+        "name": "Miner Normal School (Miner Building, Howard University)",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02177450941362,
+          38.923776460221035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-033",
+        "name": "National Baptist Memorial Church",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03596385666089,
+          38.927097727106585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-034",
+        "name": "National Museum of Natural History, Smithsonian Institution",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02597928736921,
+          38.89127103003718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-035",
+        "name": "Old City Hall (District of Columbia Court of Appeals)",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01755968147832,
+          38.8954219541621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-036",
+        "name": "Old Engine Company No. 5 (Bank of Columbia; Georgetown Town Hall & Mayor's Office)",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06332082158391,
+          38.904936886562936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-037",
+        "name": "Old Naval Observatory (National Observatory; Naval Museum of Hygiene; Naval Medical School)",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05158406025974,
+          38.8950982936736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-038",
+        "name": "Park Tower",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03714642254985,
+          38.921925184843076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-039",
+        "name": "Park View Christian Church",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_1447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02278511333591,
+          38.93324790556343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-040",
+        "name": "Park View School (and Auditorium)",
+        "category": "Education & Religion",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_1386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02140534917561,
+          38.93439019421428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-041",
+        "name": "Pension Building (National Building Museum)",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01755350237954,
+          38.89776256277985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-042",
+        "name": "PEPCO Harrison Street Substation",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated. Designated: 2020-11-16.",
+        "status": "Designated",
+        "designatedDate": "2020-11-16",
+        "sourceId": "L_1537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08444949954249,
+          38.957377395075056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-043",
+        "name": "Pepco Substation 13",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated. Designated: 2018-02-01.",
+        "status": "Designated",
+        "designatedDate": "2018-02-01",
+        "sourceId": "L_1515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02641248390468,
+          38.92700307646974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-044",
+        "name": "Pepco Substation 25",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated. Designated: 2018-02-01.",
+        "status": "Designated",
+        "designatedDate": "2018-02-01",
+        "sourceId": "L_1516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04013035899605,
+          38.918862754057585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-045",
+        "name": "Petworth Library",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated. Designated: 2018-09-27.",
+        "status": "Designated",
+        "designatedDate": "2018-09-27",
+        "sourceId": "L_1514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02613785668785,
+          38.94219174092211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-046",
+        "name": "Slowe-Burrill House",
+        "category": "Residential",
+        "description": "Status: Designated. Designated: 2020-04-30.",
+        "status": "Designated",
+        "designatedDate": "2020-04-30",
+        "sourceId": "L_1531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98908332760243,
+          38.93090961940392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-047",
+        "name": "Soldiers' Home, Sherman Building",
+        "category": "Residential",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01165715353929,
+          38.94212633083427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-048",
+        "name": "Southeast Branch Library",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_1519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99652464465034,
+          38.88408356814042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-049",
+        "name": "Southern Aid Society Building (Dunbar Theater)",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02161264664657,
+          38.91575180852888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-050",
+        "name": "Tenth Precinct Station House",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02560331970302,
+          38.93257711317635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-051",
+        "name": "Terminal Refrigerating and Warehouse Company",
+        "category": "Residential",
+        "description": "Status: Designated. Designated: 2014-07-24.",
+        "status": "Designated",
+        "designatedDate": "2014-07-24",
+        "sourceId": "L_1448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01627548157175,
+          38.88478281540326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-052",
+        "name": "Textile Museum (Martha Tucker House & George Hewitt Myers House)",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0514019830258,
+          38.91390927724805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-053",
+        "name": "Tower Building",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03231582928446,
+          38.90293176883237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-054",
+        "name": "Trinity Towers",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03216246708504,
+          38.92817479732257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-055",
+        "name": "Tudor Hall (Henley Park Hotel)",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02573924926365,
+          38.90314334271124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-056",
+        "name": "Twelfth Precinct Station House",
+        "category": "Civic & Institutional",
+        "description": "Status: Pending.",
+        "status": "Pending",
+        "designatedDate": "",
+        "sourceId": "L_1529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98047164556031,
+          38.9273187214779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-057",
+        "name": "Union Station, Columbus Fountain & Plaza (and interiors)",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00646572601549,
+          38.89642286176784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-058",
+        "name": "Walter-Reed Army Medical Center, Army Medical Museum and Library",
+        "category": "Civic & Institutional",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03247268022547,
+          38.97685664795956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-059",
+        "name": "Wardman Tower (and Arcade)",
+        "category": "Commercial & Industrial",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05334952084395,
+          38.924929528436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc-060",
+        "name": "Warner Theatre Building (and Interior)",
+        "category": "Culture & Community",
+        "description": "Status: Designated.",
+        "status": "Designated",
+        "designatedDate": "",
+        "sourceId": "L_0404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02924736328981,
+          38.89647672627301
+        ]
+      }
+    }
+  ]
+}

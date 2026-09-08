@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>City Explorer</title>
+
+    <!-- Leaflet -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/esri-leaflet-geocoder@3.1.7/dist/esri-leaflet-geocoder.css"
+    />
+    <!-- App styles -->
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <header class="sidebar-header">
+          <p class="eyebrow">KCDC 2026</p>
+
+          <h1 id="app-title">City Explorer</h1>
+
+          <p class="intro">
+            Explore historic places and see how a map and ordinary web UI can
+            share application state.
+          </p>
+        </header>
+
+        <p id="status" class="status" aria-live="polite"></p>
+
+        <div class="filter">
+          <label for="category-filter" class="filter__label"> Category </label>
+
+          <select id="category-filter" class="filter__select">
+            <option value="all">All categories</option>
+
+            <option value="Culture & Community">Culture & Community</option>
+
+            <option value="Education & Religion">Education & Religion</option>
+
+            <option value="Civic & Institutional">Civic & Institutional</option>
+
+            <option value="Commercial & Industrial">
+              Commercial & Industrial
+            </option>
+
+            <option value="Residential">Residential</option>
+          </select>
+        </div>
+        <div class="favorite-tools">
+          <button
+            id="favorite-button"
+            class="favorite-button"
+            type="button"
+            disabled
+          >
+            ☆ Select a place to favorite
+          </button>
+        </div>
+
+        <ul
+          id="place-list"
+          class="place-list"
+          aria-label="Historic places"
+        ></ul>
+      </aside>
+
+      <main id="map" class="map" aria-label="Interactive map"></main>
+    </div>
+
+    <!-- Leaflet -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- Esri Leaflet -->
+    <script src="https://unpkg.com/esri-leaflet@3.0.19/dist/esri-leaflet.js"></script>
+
+    <!-- Esri Leaflet Vector -->
+    <script src="https://unpkg.com/esri-leaflet-vector@4.3.2/dist/esri-leaflet-vector.js"></script>
+
+    <!-- Esri Leaflet Geocoder -->
+    <script src="https://unpkg.com/esri-leaflet-geocoder@3.1.7/dist/esri-leaflet-geocoder.js"></script>
+
+    <!-- Local workshop configuration -->
+    <script src="./config.js"></script>
+
+    <!-- App -->
+    <script type="module" src="./js/app.js"></script>
+
+    <!-- App -->
+    <script type="module" src="./js/app.js"></script>
+  </body>
+</html>

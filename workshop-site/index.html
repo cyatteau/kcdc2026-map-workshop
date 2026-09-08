@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Build Your Own City Explorer</title>
+
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <body>
+    <div class="site-shell">
+      <aside class="site-sidebar">
+        <header class="site-header">
+          <p class="eyebrow">KCDC 2026</p>
+
+          <a class="site-title" href="#start">
+            Build Your Own<br />
+            City Explorer
+          </a>
+
+          <p class="site-description">
+            Build an interactive mapping application with Leaflet, Esri Leaflet,
+            GeoJSON, and vanilla JavaScript.
+          </p>
+        </header>
+
+        <nav class="site-nav" aria-label="Workshop navigation">
+          <p class="nav-heading">Workshop</p>
+
+          <a href="#start" data-page="start"> Start Here </a>
+
+          <p class="nav-heading">Core Workshop</p>
+
+          <a href="#01-map" data-page="01-map">
+            <span>01</span>
+            Build the Map
+          </a>
+
+          <a href="#02-data" data-page="02-data">
+            <span>02</span>
+            Load Geographic Data
+          </a>
+
+          <a href="#03-ui" data-page="03-ui">
+            <span>03</span>
+            Build the UI
+          </a>
+
+          <a href="#04-selection" data-page="04-selection">
+            <span>04</span>
+            Synchronize Selection
+          </a>
+
+          <a href="#05-filtering" data-page="05-filtering">
+            <span>05</span>
+            Filter Shared State
+          </a>
+
+          <a href="#06-polish" data-page="06-polish">
+            <span>06</span>
+            Polish the App
+          </a>
+
+          <a href="#07-refactor" data-page="07-refactor">
+            <span>07</span>
+            Refactor Into Modules
+          </a>
+
+          <a href="#08-favorites" data-page="08-favorites">
+            <span>08</span>
+            Add Favorites
+          </a>
+
+          <p class="nav-heading">Explore More</p>
+
+          <a href="#customize" data-page="customize"> ✨ Make It Yours </a>
+
+          <p class="nav-heading">Need Help?</p>
+
+          <a href="#troubleshooting" data-page="troubleshooting">
+            🛟 Troubleshooting
+          </a>
+
+          <p class="nav-heading">Extensions</p>
+
+          <a href="#geocoding" data-page="geocoding"> 🔎 ArcGIS Geocoding </a>
+
+          <a href="#drawing" data-page="drawing"> ✏️ Draw & Export </a>
+
+          <a href="#feature-layer" data-page="feature-layer">
+            🗺️ ArcGIS Feature Layer
+          </a>
+        </nav>
+      </aside>
+
+      <main class="content-shell">
+        <div id="checkpoint-banner"></div>
+
+        <article id="content" class="workshop-content">
+          <p>Loading workshop...</p>
+        </article>
+
+        <div id="page-navigation"></div>
+      </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <script src="./site.js"></script>
+  </body>
+</html>
