@@ -356,7 +356,7 @@ Reorder the `<option>` elements in HTML.
 
 Want more filtering ideas? Find them under **Explore More → ✨ Make It Yours** in the workshop navigation.
 
-## <!-- OPTIONAL-END -->
+<!-- OPTIONAL-END -->
 
 # ✅ Check Your Work
 

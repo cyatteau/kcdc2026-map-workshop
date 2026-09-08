@@ -183,7 +183,8 @@ checkpoints/03-ui
 checkpoints/04-selection
 checkpoints/05-filtering
 checkpoints/06-polish
-checkpoints/07-complete
+checkpoints/07-refactor
+checkpoints/08-favorites
 ```
 
 If you get stuck, compare your files with the checkpoint.

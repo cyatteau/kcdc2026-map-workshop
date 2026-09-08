@@ -727,7 +727,7 @@ app.js   → coordinates...
 
 If you can explain the boundaries, the refactor is doing its job.
 
-## <!-- OPTIONAL-END -->
+<!-- OPTIONAL-END -->
 
 <!-- OPTIONAL-START: ✨ Make It Yours -->
 
@@ -755,7 +755,7 @@ const SELECTION_ZOOM = 15;
 
 Want more architecture ideas? Find them under **Explore More → ✨ Make It Yours** in the workshop navigation.
 
-## <!-- OPTIONAL-END -->
+<!-- OPTIONAL-END -->
 
 # ✅ Check Your Work
 

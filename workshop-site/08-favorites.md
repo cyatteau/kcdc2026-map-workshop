@@ -1055,25 +1055,3 @@ The map is powerful.
 But it is still one view of a larger web application.
 
 ---
-
-# Next
-
-Head to **Explore More → ✨ Make It Yours** in the workshop navigation, or try one of the optional extensions.
-
-```text
-map
-+
-GeoJSON
-+
-sidebar
-+
-selection
-+
-filtering
-+
-responsive UI
-+
-JavaScript modules
-+
-favorites
-```

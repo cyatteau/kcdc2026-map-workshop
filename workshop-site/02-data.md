@@ -1166,7 +1166,7 @@ For the easiest path with the instructor, return to the original version before 
 
 Want more data ideas? Find them under **Explore More → ✨ Make It Yours** in the workshop navigation.
 
-## <!-- OPTIONAL-END -->
+<!-- OPTIONAL-END -->
 
 # ✅ Check Your Work
 

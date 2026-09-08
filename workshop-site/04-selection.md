@@ -456,7 +456,7 @@ Try `14`, `16`, or `17`.
 
 Want more selection ideas? Find them under **Explore More → ✨ Make It Yours** in the workshop navigation.
 
-## <!-- OPTIONAL-END -->
+<!-- OPTIONAL-END -->
 
 # ✅ Check Your Work
 
